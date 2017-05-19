@@ -53,10 +53,11 @@
       <file leaf-file-name="Titlebar.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/imports/ui/Titlebar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+            <state relative-caret-position="510">
+              <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
               <folding>
                 <element signature="e#74#100#0" expanded="true" />
+                <marker date="1495202943000" expanded="true" signature="803:825" ph="/** added some comment ...*/" />
               </folding>
             </state>
           </provider>
@@ -237,12 +238,12 @@
       <workItem from="1494821911372" duration="27825000" />
       <workItem from="1494910589407" duration="147000" />
       <workItem from="1494931631416" duration="3960000" />
-      <workItem from="1495200643153" duration="1622000" />
+      <workItem from="1495200643153" duration="1705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33554000" />
+    <option name="totallyTimeSpent" value="33637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="339" y="23" width="1070" height="1037" extended-state="0" />
@@ -310,6 +311,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#74#100#0" expanded="true" />
+            <marker date="1495202943000" expanded="true" signature="803:825" ph="/** added some comment ...*/" />
           </folding>
         </state>
       </provider>
@@ -354,6 +356,7 @@
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#74#100#0" expanded="true" />
+            <marker date="1495202943000" expanded="true" signature="803:825" ph="/** added some comment ...*/" />
           </folding>
         </state>
       </provider>
@@ -398,6 +401,7 @@
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#74#100#0" expanded="true" />
+            <marker date="1495202943000" expanded="true" signature="803:825" ph="/** added some comment ...*/" />
           </folding>
         </state>
       </provider>
@@ -471,10 +475,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imports/ui/Titlebar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+        <state relative-caret-position="510">
+          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
           <folding>
             <element signature="e#74#100#0" expanded="true" />
+            <marker date="1495202943000" expanded="true" signature="803:825" ph="/** added some comment ...*/" />
           </folding>
         </state>
       </provider>

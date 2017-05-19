@@ -31,7 +31,3 @@ TitleBar.propTypes = {
 TitleBar.defaultProps = {
   title: 'Default title'
 };
-
-/*added some comment*/
-
-/*added some more comments */
